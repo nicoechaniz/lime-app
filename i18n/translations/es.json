@@ -210,6 +210,12 @@
     "these_are_the_nodes_that_can_t_be_reached_from_you_dbbf9032": "Son los nodos con los que tienes conectividad, es decir que hay un camino funcionando entre tu nodo y cada uno de ellos.",
     "this_information_is_synced_periodically_and_can_be_8b74cb8c": "Esta información se sincroniza periódicamente, puede estar desactualizada algunos minutos.", 
     "unreachable_howmany_e5c8f844": "No Alcanzables (%{howMany})", 
-    "unreachable_nodes_e6785f10": "Nodos No Alcanzables"
+    "unreachable_nodes_e6785f10": "Nodos No Alcanzables",
+    "not_upgraded_howmany_5ed230c3": "No Actualizados (%{howMany})",
+    "not_upgraded_nodes_9e67db38": "Nodos No Actualizados",
+    "these_are_the_nodes_running_the_last_version_of_th_5165bdfe": "Estos son los nodos que están actualizados a la última versión del Firmware",
+    "these_are_the_nodes_that_need_to_be_upgraded_to_th_d09d104": "Estos son los nodos que necesitan actualizarse a la última versión del Firmware",
+    "upgraded_howmany_e439d4b1": "Actualizados (%{howMany})",
+    "upgraded_nodes_dfc85207": "Nodos Actualizados"
 }
 
