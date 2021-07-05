@@ -9,6 +9,9 @@ import Fbw from '../plugins/lime-plugin-fbw';
 import NetworkAdmin from '../plugins/lime-plugin-network-admin';
 import Firmware from '../plugins/lime-plugin-firmware';
 import RemoteSupport from '../plugins/lime-plugin-remotesupport';
+import NetworkNodes from '../plugins/lime-plugin-network-nodes';
+import DeleteNodes from '../plugins/lime-plugin-delete-nodes';
+import ReachableNodes from '../plugins/lime-plugin-reachable-nodes';
 
 // REGISTER PLUGINS
 export const plugins = [
@@ -22,5 +25,7 @@ export const plugins = [
 	Firmware,
 	ChangeNode,
 	RemoteSupport,
+	NetworkNodes,
+	DeleteNodes,
 	Fbw // fbw does not have menu item
 ];
